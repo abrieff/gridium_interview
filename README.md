@@ -1,1 +1,0 @@
-# gridium_interview
