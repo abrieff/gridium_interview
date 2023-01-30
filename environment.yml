@@ -1,4 +1,4 @@
-name: gridium_interview_question
+name: gridium_interview
 channels:
   - conda-forge
   - defaults
